@@ -7,4 +7,8 @@ remark from WS:
 
 2019.4.6
 remark from WS:
-    I have added in a RandomForestregressor model and I am left with prediction of life ladderfor 2019.
+    I have added in a RandomForestregressor model and I am left with prediction of life ladder for 2019.
+    
+    I finished the prediction for 2019 but the results for different models looks a bit weird, i thought model 2 would have higher score       than model 1 but OOPS
+    
+    And btw I've found another cool regression model so I'll probably add another one later if i have time
