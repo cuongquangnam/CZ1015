@@ -12,3 +12,9 @@ remark from WS:
     I finished the prediction for 2019 but the results for different models looks a bit weird, i thought model 2 would have higher score       than model 1 but OOPS
     
     And btw I've found another cool regression model so I'll probably add another one later if i have time
+
+2019.4.7
+remark from WS:
+    OMG I'm done with regression finally yay!
+    I changed some codes after clarifying some of my doubts with a senior. Turns out that CV is used to estimate the fitness of the model rather than to generate datasets lol.
+    And I've done the prediction of Life ladder for the year 2018 (also just realised today that it's not 2019...)
